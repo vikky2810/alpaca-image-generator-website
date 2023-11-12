@@ -32,17 +32,9 @@ Check out the live demo [here](https://alpacageneratorbyviks.onrender.com/) and 
 
 Contributions are welcome! If you have any ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request. Check out our [Contribution Guidelines](link-to-contributing.md).
 
-## Credits
-
-- Alpaca images provided by [AlpacaAPI](link-to-alpaca-api).
-- Inspiration and design tips from our favorite alpaca enthusiasts.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Vikram Kamble (Viks2810)..
 
 Enjoy alpaca-ting! 🌟

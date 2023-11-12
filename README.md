@@ -1,6 +1,7 @@
-# Alpaca Image Generator 🦙✨
 
 ![giphy](https://github.com/vikky2810/alpaca-image-generator-website/assets/107768078/e75d8637-2d2f-4a3e-b7aa-7a4b561235dd)
+
+# Alpaca Image Generator 🦙✨
 
 
 ![alpaca](https://github.com/vikky2810/alpaca-image-generator-website/assets/107768078/57b963fa-91ab-4002-98c6-c09064028612)
